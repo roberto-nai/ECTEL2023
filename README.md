@@ -1,7 +1,7 @@
-# EC-TEL 2023 conference
-## Process mining on students’ web learning traces: a case study with an ethnographic analysis
-### Auhors: Roberto Nai, Emilio Sulis, Elisa Marengo, Manuela Vinai and Sara Capecchi
-#### Folder "pdf" contains the full article
-#### Folder "poster" contains the poster article
-#### Folder "figures" contains figures 1 to 4 in high resolution used in the article
-#### Folder "data" contains event logs in CSV format 
+# Process mining on students’ web learning traces: a case study with an ethnographic analysis
+## EC-TEL 2023: Eighteenth European Conference on Technology Enhanced Learning
+
+The "pdf" folder contains the article.
+The "poster" folder contains the article in poster format.
+
+PREPRINT
